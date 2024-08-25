@@ -9,7 +9,7 @@ Our published papers that related to recognize faces.
 
 #### Paper List:
 
-**`2023`**: `KappaFace: Adaptive Additive Angular Margin Loss for Deep Face Recognition` Under submission **aXiv**. [[paper](https://arxiv.org/pdf/2201.07394.pdf)]
+**`2023`**: `KappaFace: Adaptive Additive Angular Margin Loss for Deep Face Recognition` Accepted by **IEEE Access**. [[paper](https://arxiv.org/pdf/2201.07394.pdf)]
 
 **`2023`**: `S-ViT: Sparse Vision Transformer for Accurate Face Recognition` accepted by **ACM/SIGAPP Symposium On Applied Computing**.
 
