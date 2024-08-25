@@ -15,6 +15,12 @@ Our published papers that related to recognize faces.
 
 **`2022`**: `Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack` accepted by **WWW**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512212)]
 
+### Facial Security
+Our published papers that related to facial security methods.
+
+#### Paper List:
+**`2024`**: `Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification`  accepted by **A33rd ACM International Conference on Information & Knowledge Management**.
+
 
 ### Face Improvement/Generation
 Our published papers that related to improve or generate facial features.
