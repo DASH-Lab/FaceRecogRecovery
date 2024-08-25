@@ -19,13 +19,14 @@ Our published papers that related to recognize faces.
 Our published papers that related to facial security methods.
 
 #### Paper List:
-**`2024`**: `Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification`  accepted by **A33rd ACM International Conference on Information & Knowledge Management**.
+**`2024`**: `Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification`  accepted by **33rd ACM International Conference on Information & Knowledge Management**.[[paper](https://arxiv.org/abs/2408.06167)]
 
 
 ### Face Improvement/Generation
 Our published papers that related to improve or generate facial features.
 
 #### Paper List:
+**`2024`**: `EAE-GAN: Emotion-Aware Emoji Generative Adversarial Network for Computationally Modeling Diverse and Fine-Grained Human Emotions`accepted by **IEEE Transactions on Computational Social Systems**.[[paper](https://ieeexplore.ieee.org/document/10355933/)]
 
 **`2023`**: `A-ColViT : Real-time Interactive Colorization by Adaptive Vision Transformer` accepted by **AAAI**. [[paper](https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf)]
 
