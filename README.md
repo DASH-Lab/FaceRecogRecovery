@@ -11,7 +11,7 @@ Our published papers that related to recognize faces.
 
 **`2023`**: `KappaFace: Adaptive Additive Angular Margin Loss for Deep Face Recognition` accepted by **IEEE Access**. [[paper](https://arxiv.org/pdf/2201.07394.pdf)]
 
-**`2023`**: `S-ViT: Sparse Vision Transformer for Accurate Face Recognition` accepted by **ACM/SIGAPP SAC**.[[paper](https://dl.acm.org/doi/abs/10.1145/3555776.3577640)]
+**`2023`**: `S-ViT: Sparse Vision Transformer for Accurate Face Recognition` accepted by **ACM/SIGAPP SAC**. [[paper](https://dl.acm.org/doi/abs/10.1145/3555776.3577640)]
 
 **`2022`**: `Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack` accepted by **WWW**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512212)]
 
@@ -19,14 +19,14 @@ Our published papers that related to recognize faces.
 Our published papers that related to facial security methods.
 
 #### Paper List:
-**`2024`**: `Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification`  accepted by **CIKM**.[[paper](https://arxiv.org/abs/2408.06167)]
+**`2024`**: `Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification`  accepted by **CIKM**. [[paper](https://arxiv.org/abs/2408.06167)]
 
 
 ### Face Improvement/Generation
 Our published papers that related to improve or generate facial features.
 
 #### Paper List:
-**`2024`**: `EAE-GAN: Emotion-Aware Emoji Generative Adversarial Network for Computationally Modeling Diverse and Fine-Grained Human Emotions`accepted by **IEEE Transactions on Computational Social Systems**.[[paper](https://ieeexplore.ieee.org/document/10355933/)]
+**`2024`**: `EAE-GAN: Emotion-Aware Emoji Generative Adversarial Network for Computationally Modeling Diverse and Fine-Grained Human Emotions`accepted by **IEEE Transactions on Computational Social Systems**. [[paper](https://ieeexplore.ieee.org/document/10355933/)]
 
 **`2023`**: `A-ColViT : Real-time Interactive Colorization by Adaptive Vision Transformer` accepted by **AAAI** workshop. [[paper](https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf)]
 
