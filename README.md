@@ -21,6 +21,8 @@ Our published papers that related to facial security methods.
 #### Paper List:
 **`2024`**: `Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification`  accepted by **CIKM**. [[paper](https://arxiv.org/abs/2408.06167)]
 
+**`2024`**: `Gradient Alignment for Cross-Domain Face Anti-Spoofing` accepted by **CVPR** [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Gradient_Alignment_for_Cross-Domain_Face_Anti-Spoofing_CVPR_2024_paper.pdf)]
+
 
 ### Face Improvement/Generation
 Our published papers that related to improve or generate facial features.
